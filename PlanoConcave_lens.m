@@ -1,4 +1,4 @@
-%% Homework 5 Bonus
+%% Plano-Concave Lens
 %% Introduction
 % * Author:                   Sulan Pathiranage
 % * Class:                    ESE 582
